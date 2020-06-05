@@ -1,7 +1,4 @@
 //# Working-with-else-if
-//working with else if statements  
-
-# Working-with-else-if
 /*working with else if statements  
 
 In the game of golf each hole has a par meaning the average number of strokes a golfer is expected to make in order to sink the ball in a hole to complete the play. Depending on how far above or below par your strokes are, there is a different nickname.
